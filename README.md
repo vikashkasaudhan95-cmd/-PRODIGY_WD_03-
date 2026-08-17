@@ -1,5 +1,4 @@
-Task - 03
-An internship task repo
+Task -03
 
 Build a tic -tac -toe web application using HTML ,CSS ,JAVA-SCRIPT.
 ----------
