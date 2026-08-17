@@ -1,4 +1,4 @@
-# -PRODIGY_WD_03-
+Task - 03
 An internship task repo
 
 Build a tic -tac -toe web application using HTML ,CSS ,JAVA-SCRIPT.
